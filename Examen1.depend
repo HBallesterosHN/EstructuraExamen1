@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1424121940 source:/home/turupawn/Projects/Clases/Estructura/Examen1/Evaluador.cpp
+	"Evaluador.h"
+
+1424120563 /home/turupawn/Projects/Clases/Estructura/Examen1/Evaluador.h
+	<iostream>
+	<vector>
+	<set>
+	<map>
+	<list>
+	<vector>
+	<stack>
+	<queue>
+
+1424121696 source:/home/turupawn/Projects/Clases/Estructura/Examen1/main.cpp
+	"Evaluador.h"
+	<iostream>
+	<vector>
+	<set>
+	<map>
+	<list>
+	<vector>
+	<stack>
+	<queue>
+
+1424394209 source:c:\users\hballesteros\desktop\estructuraexamen1-2015-master\estructuraexamen1-2015-master\main.cpp
+	"Evaluador.h"
+	<iostream>
+	<vector>
+	<set>
+	<map>
+	<list>
+	<vector>
+	<stack>
+	<queue>
+
+1424382898 c:\users\hballesteros\desktop\estructuraexamen1-2015-master\estructuraexamen1-2015-master\evaluador.h
+	<iostream>
+	<vector>
+	<set>
+	<map>
+	<list>
+	<vector>
+	<stack>
+	<queue>
+
+1424382898 source:c:\users\hballesteros\desktop\estructuraexamen1-2015-master\estructuraexamen1-2015-master\evaluador.cpp
+	"Evaluador.h"
+
+1424382898 source:d:\personal\ceutec\estructura de datos\estructuraexamen1\evaluador.cpp
+	"Evaluador.h"
+
+1424382898 d:\personal\ceutec\estructura de datos\estructuraexamen1\evaluador.h
+	<iostream>
+	<vector>
+	<set>
+	<map>
+	<list>
+	<vector>
+	<stack>
+	<queue>
+
+1424394209 source:d:\personal\ceutec\estructura de datos\estructuraexamen1\main.cpp
+	"Evaluador.h"
+	<iostream>
+	<vector>
+	<set>
+	<map>
+	<list>
+	<vector>
+	<stack>
+	<queue>
+
